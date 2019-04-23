@@ -32,3 +32,6 @@ https://towardsdatascience.com/understanding-and-optimizing-gans-going-back-to-f
 
 This guy has a very Interesting blog
 https://www.countbayesie.com/all-posts
+
+Optimization problem solved by crowdsourcing, Maybe I can make somthing similar to this
+https://koyama.xyz/project/sequential_line_search/

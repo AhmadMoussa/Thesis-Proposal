@@ -38,3 +38,13 @@ https://koyama.xyz/project/sequential_line_search/
 
 Why use the log probability for gradient descent instead of just the probability, very interestion:
 https://stats.stackexchange.com/questions/174481/why-to-optimize-max-log-probability-instead-of-probability
+
+Overview of convolutional network part1:
+https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+part 2:
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/
+
+Course of convolutional neural networks:
+http://cs231n.github.io/convolutional-networks/
+http://cs231n.github.io/
+

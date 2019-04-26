@@ -18,7 +18,7 @@
 * [Why use the log probability for gradient descent instead of just the probability, very interestion!](https://stats.stackexchange.com/questions/174481/why-to-optimize-max-log-probability-instead-of-probability)
 
 ## Optimization techniques:
-* [Optimization problem solved by crowdsourcing, Maybe I can make somthing similar to this(https://koyama.xyz/project/sequential_line_search/)
+* [Optimization problem solved by crowdsourcing, Maybe I can make somthing similar to this](https://koyama.xyz/project/sequential_line_search/)
 * [Introduction to the Adam Optimizer](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
 
 ## Convolutional networks:

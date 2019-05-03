@@ -1,6 +1,9 @@
 # Master Thesis
 
 * Generate musical content from text or video
+* This repo will be: a storage space for all relevant material, links and research papers that I find; a "diary" for my ideas and thought process; as well as a notebook to report my research advancement, progress and new things that I learn and discover along the way.
+
+## Ideas to explore:
 * Idea 5/2/2019: Create a musical concept graph? We could create a graph that represents the emotional content of the text or video
 * Idea 5/3/2019: I need to have some input data set to train on. Maybe I can create some program (like the video to music program that I am making), to create music in some structured way. If I could generate and produce a bunch of pieces, that I will still revise later on, then I could create a meaningful data set to train on with an RNN or Wavenet. Could this be useful? Maybe. Probably not.
 
@@ -30,5 +33,7 @@
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
 * [Stanford course on convolutional networks](http://cs231n.github.io/)
 
-
+## Recurrent Neural Networks
+* [Andrej Karpathy - The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* 
 

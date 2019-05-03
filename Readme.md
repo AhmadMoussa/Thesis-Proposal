@@ -1,5 +1,9 @@
 # Master Thesis
 
+* Generate musical content from text or video
+* Idea 5/2/2019: Create a musical concept graph? We could create a graph that represents the emotional content of the text or video
+* Idea 5/3/2019: I need to have some input data set to train on. Maybe I can create some program (like the video to music program that I am making), to create music in some structured way. If I could generate and produce a bunch of pieces, that I will still revise later on, then I could create a meaningful data set to train on with an RNN or Wavenet. Could this be useful? Maybe. Probably not.
+
 ## Probability Concepts for machine learning:
 * [Kullback Leibler Divergence Explained in Detail, Count Bayesie](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 * [Kullback leibler divergence overview, Medium Article](https://medium.com/@samsachedina/demystified-kullback-leibler-divergence-3971f956ef34)

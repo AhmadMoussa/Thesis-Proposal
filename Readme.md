@@ -7,6 +7,18 @@
 * Idea 5/2/2019: Create a musical concept graph? We could create a graph that represents the emotional content of the text or video
 * Idea 5/3/2019: I need to have some input data set to train on. Maybe I can create some program (like the video to music program that I am making), to create music in some structured way. If I could generate and produce a bunch of pieces, that I will still revise later on, then I could create a meaningful data set to train on with an RNN or Wavenet. Could this be useful? Maybe. Probably not.
 
+## Tools:
+* [Tensorflow](https://www.tensorflow.org/install) crucial package for creating NN models
+* [PyTorch](https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html) A replacement for NumPy to use the power of GPUs [install from here](https://pytorch.org/get-started/locally/) and check if you have a CUDA enabled GPU [here](https://developer.nvidia.com/cuda-gpus)
+* [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard#setup) to visualize the training process, a nice feature of tensorflow
+* [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+* [Nsynth Dataset](https://magenta.tensorflow.org/datasets/nsynth), audio sample dataset of musical notes a magnitude larger than any other dataset on the internet (300k samples)
+
+## Concepts:
+* [Mu-Law Quantization](https://en.wikipedia.org/wiki/%CE%9C-law_algorithm), important for error estimation?
+* [Cross Entropy Explained](https://stackoverflow.com/questions/41990250/what-is-cross-entropy)
+* [Difference Between Entropy and Cross-Entropy](https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad54a8)
+
 ## Probability Concepts for machine learning:
 * [Kullback Leibler Divergence Explained in Detail, Count Bayesie](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 * [Kullback leibler divergence overview, Medium Article](https://medium.com/@samsachedina/demystified-kullback-leibler-divergence-3971f956ef34)

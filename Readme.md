@@ -36,6 +36,7 @@
 ## Other relevant material:
 * [This guy has a very Interesting blog](https://www.countbayesie.com/all-posts)
 * [Why use the log probability for gradient descent instead of just the probability, very interestion!](https://stats.stackexchange.com/questions/174481/why-to-optimize-max-log-probability-instead-of-probability)
+* [Thought Vectors Explained](http://gabgoh.github.io/ThoughtVectors/)
 
 ## Optimization techniques:
 * [Optimization problem solved by crowdsourcing, Maybe I can make somthing similar to this](https://koyama.xyz/project/sequential_line_search/)

@@ -9,7 +9,7 @@
 
 ## Tools:
 * [Tensorflow](https://www.tensorflow.org/install) crucial package for creating NN models
-* [PyTorch](https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html) A replacement for NumPy to use the power of GPUs [install from here](https://pytorch.org/get-started/locally/) and check if you have a CUDA enabled GPU [here](https://developer.nvidia.com/cuda-gpus)
+* [PyTorch](https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html) A replacement for NumPy to use the power of GPUs [install from here](https://pytorch.org/get-started/locally/) and check if you have a CUDA enabled GPU [here](https://developer.nvidia.com/cuda-gpus), and [here is a tutorial](https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad) on how to use pyTorch with deep learning
 * [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard#setup) to visualize the training process, a nice feature of tensorflow
 * [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 * [Nsynth Dataset](https://magenta.tensorflow.org/datasets/nsynth), audio sample dataset of musical notes a magnitude larger than any other dataset on the internet (300k samples)

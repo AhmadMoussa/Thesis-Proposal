@@ -15,6 +15,7 @@
 * [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard#setup) to visualize the training process, a nice feature of tensorflow
 * [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 * [Nsynth Dataset](https://magenta.tensorflow.org/datasets/nsynth), audio sample dataset of musical notes a magnitude larger than any other dataset on the internet (300k samples)
+* [Theano](http://deeplearning.net/software/theano/) is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.
 
 ## Concepts:
 * [Mu-Law Quantization](https://en.wikipedia.org/wiki/%CE%9C-law_algorithm), important for error estimation?

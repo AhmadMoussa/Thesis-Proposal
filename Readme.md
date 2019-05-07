@@ -6,6 +6,7 @@
 ## Ideas to explore:
 * Idea 5/2/2019: Create a musical concept graph? We could create a graph that represents the emotional content of the text or video
 * Idea 5/3/2019: I need to have some input data set to train on. Maybe I can create some program (like the video to music program that I am making), to create music in some structured way. If I could generate and produce a bunch of pieces, that I will still revise later on, then I could create a meaningful data set to train on with an RNN or Wavenet. Could this be useful? Maybe. Probably not.
+* Idea 5/7/2019: So basically what my research will be boiling down to is, creating a musical sequence from other types of sequences such as text or video, such that it can be translated in a meaningful way. Why si this relevant? Because not a lot of research has gone into this yet and it could be a useful media application for musicians and those who work in a field tangentially related to music.
 
 ## Tools:
 * [Tensorflow](https://www.tensorflow.org/install) crucial package for creating NN models

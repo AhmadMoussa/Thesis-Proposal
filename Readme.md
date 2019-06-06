@@ -14,8 +14,16 @@
 * [PyTorch](https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html) A replacement for NumPy to use the power of GPUs [install from here](https://pytorch.org/get-started/locally/) and check if you have a CUDA enabled GPU [here](https://developer.nvidia.com/cuda-gpus), and [here is a tutorial](https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad) on how to use pyTorch with deep learning
 * [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard#setup) to visualize the training process, a nice feature of tensorflow
 * [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
-* [Nsynth Dataset](https://magenta.tensorflow.org/datasets/nsynth), audio sample dataset of musical notes a magnitude larger than any other dataset on the internet (300k samples)
+
 * [Theano](http://deeplearning.net/software/theano/) is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.
+
+## Audio Datasets that aren't speech:
+* [Nsynth Dataset](https://magenta.tensorflow.org/datasets/nsynth), audio sample dataset of musical notes a magnitude larger than any other dataset on the internet (300k samples)
+* [Macauly Library](https://search.macaulaylibrary.org/catalog?mediaType=a), library that has 513,285 animal call recordings + labeled spreadsheets for all of these recordings
+* Splice can easily be used to create a small dataset for drum sounds in addition to free sample packs on LANDR and CYMATICS
+  1. [Splice](https://splice.com/) needs a subscription, but after that you can use the samples for whatever purpose
+  2. [LANDR](https://samples.landr.com/) lots of free sample packs
+  3. [CYMATICS](https://cymatics.fm/pages/free-download-vault) more free sample packs
 
 ## Concepts:
 * [Mu-Law Quantization](https://en.wikipedia.org/wiki/%CE%9C-law_algorithm), important for error estimation?

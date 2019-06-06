@@ -26,10 +26,11 @@
   3. [CYMATICS](https://cymatics.fm/pages/free-download-vault) more free sample packs
 
 ## Concepts:
-* [Mu-Law Quantization](https://en.wikipedia.org/wiki/%CE%9C-law_algorithm), important for error estimation?
+* [Mu-Law Quantization](https://en.wikipedia.org/wiki/%CE%9C-law_algorithm), helps reduce the dynamic range of a waveform
+* [Companding Transformation](https://en.wikipedia.org/wiki/Companding)
 * [Cross Entropy Explained](https://stackoverflow.com/questions/41990250/what-is-cross-entropy)
 * [Difference Between Entropy and Cross-Entropy](https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad54a8)
-* [Companding Transformation](https://en.wikipedia.org/wiki/Companding)
+* [Best Video for understanding the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
 
 ## Probability Concepts for machine learning:
 * [Kullback Leibler Divergence Explained in Detail, Count Bayesie](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)

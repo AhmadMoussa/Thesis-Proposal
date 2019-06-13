@@ -17,6 +17,9 @@
 
 * [Theano](http://deeplearning.net/software/theano/) is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.
 
+## Plotting Libraries:
+* [This article presents a couple](https://mode.com/blog/python-data-visualization-libraries)
+
 ## Audio Datasets that aren't speech:
 * [Nsynth Dataset](https://magenta.tensorflow.org/datasets/nsynth), audio sample dataset of musical notes a magnitude larger than any other dataset on the internet (300k samples)
 * [Macauly Library](https://search.macaulaylibrary.org/catalog?mediaType=a), library that has 513,285 animal call recordings + labeled spreadsheets for all of these recordings

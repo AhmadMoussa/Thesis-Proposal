@@ -1,3 +1,13 @@
+# Updated June 2019
+* I abandoned the previous idea that I had for finding it too untractable at the moment before I learn more about machine learning
+* Current objective: creating audio samples by training GANs to synthesize spectrograms that can be c onverted to sound.
+
+## Objectives
+* Create a small dataset of focused audio samples (for example snare drum sounds). I have been told that creating these kinds of audio samples is not really something worth pursuing, as any drum sound can be compared and trivialised to a simple knocking sound. But I would like to think that expert listeneres, sound engineers, sound designers, musicians and music producers would disagree. There is a lot of inherent quality to certain sounds (the low rumble of a kick drum for example) that I don't think has been quiet achieved, and is worth exploring at the moment.
+* Train a GAN on the spectrograms of these audio samples. We will require a good resolution of these spectrograms for good conversion results.
+* Find a good technique to do the reverse transform from spectrogram to audio. There are many techniques at the moment, but which one will be used is still up for consideration. (Griffin-lim, deep griffin-lim iteration, gan based approach)
+
+
 # Master Thesis
 
 * Generate musical content from text or video
